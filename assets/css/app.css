@@ -103,6 +103,14 @@ img {
 }
 
 .logo {
+    width: 10.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--text-links-title);
+    font-weight: 600;
+}
+.logo>img{
     width: 3rem;
 }
 
